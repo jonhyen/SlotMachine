@@ -7,20 +7,16 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>9096C1C9-137F-42F6-8990-FED8B8DC74E6</string>
 	<key>IDESourceControlProjectName</key>
-	<string>SlotMachine</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>DC39E677EA969349DFA954C55D9D852F6FAC765D</key>
-		<string>https://github.com/jonhyen/SlotMachine.git</string>
 		<key>E3A74E1755DDEF63B509910B915362870CE9CF9C</key>
 		<string>https://github.com/jonhyen/SlotMachine.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>SlotMachine.xcodeproj</string>
+	<string>SlotMachine.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>DC39E677EA969349DFA954C55D9D852F6FAC765D</key>
-		<string>../..SlotMachine</string>
 		<key>E3A74E1755DDEF63B509910B915362870CE9CF9C</key>
 		<string>../..</string>
 	</dict>
@@ -39,14 +35,6 @@
 			<string>E3A74E1755DDEF63B509910B915362870CE9CF9C</string>
 			<key>IDESourceControlWCCName</key>
 			<string>SlotMachine</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>DC39E677EA969349DFA954C55D9D852F6FAC765D</string>
-			<key>IDESourceControlWCCName</key>
-			<string>SlotMachineSlotMachine</string>
 		</dict>
 	</array>
 </dict>
